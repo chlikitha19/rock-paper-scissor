@@ -36,3 +36,4 @@ if yourscore > computerscore:
         print("YOU WON THE MATCH")
 else:
         print("COMPUTER WON THE MATCH")
+print("--------THANKS FOR PLAYING--------")
